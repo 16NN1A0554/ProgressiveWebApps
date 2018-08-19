@@ -1,0 +1,47 @@
+{
+	"basics":{
+		"name":"JYOTHI",
+		"role":"Mean-stack",
+		"mobile":"+91 8885286213",
+		"email":"jyothibhargavi@gmail.com"
+	},
+	"career":{
+		"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+	},
+	"education":[
+	{
+		"degree":"B.Tech(Computer Science and Engeneering)",
+		"institute":"vignan nirula",
+		"data":["2016-20","85%"]
+
+	},
+	{
+		"degree":"Intermediate(MPC)",
+		"institute":"JKC College",
+		"data":["2014-17","90%"]
+    },
+    {
+		"degree":"S.S.C",
+		"institute":"Z.P.HighSchool",
+		"data":["2014","90%"]
+    }
+   ],
+	"skills":[
+		{
+         "title":"Programming Languages",
+         "content":["Java","Python","C","R","C++"]
+		},
+		{
+         "title":"Data Bases",
+         "content":["SQL","Oracle","mySql"]
+		},
+		{
+         "title":"Web Technologies",
+         "content":["HTML","XML","JavaScript","CSS"]
+		},
+		{
+         "title":"Operating Systems",
+         "content":["Windows","Unix","Linux"]
+		}
+	]
+}	
